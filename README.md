@@ -14,9 +14,9 @@ Documentation for Amazon Lex Model Building Service
 http://docs.aws.amazon.com/lex/latest/dg/API_Operations_Amazon_Lex_Model_Building_Service.html
 
 SDK-s
-’’’
+```
 aws-java-sdk-lexmodelbuilding
-’’’
+```
 
 AWS Java SDK for AWS Lex in Maven
 https://maven-repository.com/artifact/com.amazonaws/aws-java-sdk-lex
