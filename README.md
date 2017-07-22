@@ -1,8 +1,15 @@
 # amazon-lex-access-model-bulding-service-with-client-from-java-sdk
 Example of the connection to the Amazon Lex model building service with a client from Java SDK.
 
+Video: https://youtu.be/31vevfYPW_U
+
 Check for an example of the connection to the Amazon Lex bot runtime with a client from Java SDK in another repository
 https://github.com/satr/amazon-lex-access-with-client-from-java-sdk
+
+Check for an importer of an Amazon Lex bot from the json file exported by https://github.com/awslabs/amazon-lex-bot-export
+
+https://github.com/satr/amazon-lex-importer
+
 
 Amazon Lex Documentation
 https://aws.amazon.com/documentation/lex/
